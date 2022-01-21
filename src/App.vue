@@ -112,7 +112,7 @@
         <label for="experiencia"> Conte sobre sua experiência </label>
         <Textarea id="experiencia" v-model="experiencia" rows="2"  :class="camposErros.indexOf('experiencia')!=-1?'p-invalid':''"/>
       </div>
-      <div class="col-12 md:col-3 mx-auto">
+      <div class="col-12 md:col-3 mx-auto mb-3">
       <Button @click="sucesso" label="Sucesso" class="bg-blue-500 border-blue-500 p-button-rounded"/>
       </div>
     </div>
