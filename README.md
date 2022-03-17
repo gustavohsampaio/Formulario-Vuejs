@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Design Web
+
+![formulario-vue](https://user-images.githubusercontent.com/93945597/150573889-2cd92636-3b22-4f3f-b8f4-4178c13c01e2.png)
+
