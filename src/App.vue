@@ -58,7 +58,7 @@
       </div>
 
       <div class="col-12 md:col-12">
-      <h6>Carreira de desenvolvedor</h6>
+        <h6>Carreira de desenvolvedor</h6>
       </div>
 
       <div class="field-radiobutton col-12">
@@ -89,7 +89,7 @@
       </div>
 
       <div class="col-12 md:col-12">
-      <h6>Linguagens de Programação e Tecnologias</h6>
+        <h6>Linguagens de Programação e Tecnologias</h6>
       </div>
 
       <div class="field-checkbox col-12 md:col-3">
@@ -140,7 +140,7 @@
       <div class="col-12 md:col-3 mx-auto mb-3">
       <Button @click="sucesso" label="Sucesso" class="bg-blue-500 border-blue-500 p-button-rounded"/>
       </div>
-      
+
     </div>
   </div>
   <Toast position="top-right" />
